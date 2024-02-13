@@ -2,21 +2,21 @@ import os
 import requests
 from twilio.rest import Client
 from twilio.http.http_client import TwilioHttpClient
-from datetime import *
+import datetime
 
 
 #Aplhavantage api
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
-API_STOCK_KEY=os.environ.get("api_stock_key")
+API_STOCK_KEY=os.environ.get("api_key_stock")
 
 #News Api
-API_KEY_NEWS=os.environ.get("api_stock_news")
+API_KEY_NEWS=os.environ.get("api_key_news")
 
 
 #Twilio api
 account_sid="ACd9523a5cc270c13c323c29003afb676a"
-auth_token=os.environ.get("auth_token")
+auth_token=os.environ.get("authen_token")
 
 
 
@@ -32,20 +32,25 @@ stock.raise_for_status()
 
 #latest refreshed date
 data_stock=stock.json()
-print(data_stock)
+
 last_date=max(data_stock["Time Series (Daily)"].keys())
 data_stock_0=float(data_stock["Time Series (Daily)"][last_date]["4. close"])
-print(data_stock_0)
+
 
 #day before last registered date
-last_date_dt=datetime.strptime(last_date,'%Y-%m-%d')
-last_date_1_dt=last_date_dt-timedelta(days=1)
+last_date_dt=datetime.datetime.strptime(last_date,'%Y-%m-%d')
+last_date_1_dt=last_date_dt-datetime.timedelta(days=1)
+
+if last_date_1_dt.weekday() == 5:  # Saturday
+    last_date_1_dt -= datetime.timedelta(days=1)
+elif last_date_1_dt.weekday() == 6:  # Sunday
+    last_date_1_dt -= datetime.timedelta(days=2)
 last_date_1=last_date_1_dt.strftime('%Y-%m-%d')
 day_before_last_date=float(data_stock["Time Series (Daily)"][last_date_1]["4. close"])
-print(day_before_last_date)
+
 
 percentage_change=round(((data_stock_0 - day_before_last_date) / data_stock_0) * 100, 4)
-print(percentage_change)
+
 
 if percentage_change >= 1 or percentage_change<=-1:
 
@@ -71,9 +76,9 @@ if percentage_change >= 1 or percentage_change<=-1:
         for article in news_data["articles"]:
             if "description" in article and article['description'] != "[Removed]":
                 headlines = article["title"]
-                print(headlines)
+
                 short = article["description"]
-                print(short)
+
 
                 if short not in unique_des:
                     unique_des.append(short)
@@ -96,8 +101,14 @@ if percentage_change >= 1 or percentage_change<=-1:
 
     message = client.messages.create(
         body=body,
-        from_=os.environ.get("nr_Twilio"),
-        to=os.environ.get("my_nr")
-        )
+        from_=os.environ.get("Twilio_nr"),
+        to=os.environ.get("my_nr"))
 
     print(message.status)
+
+
+
+
+
+
+
