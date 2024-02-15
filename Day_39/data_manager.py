@@ -2,12 +2,12 @@ import requests
 
 class DataManager:
     def __init__(self):
-        self.PROJECT_NAME = "prices"
-        self.SHEET_NAME = "flightDeals"
-        self.API_SHEETY_KEY = "657c33546299c858d6104f8fbeec3f34"
+        self.PROJECT_NAME = os.environ["project"]
+        self.SHEET_NAME = os.environ["sheet"]
+        self.API_SHEETY_KEY = os.environ["sheety_key"]
         self.get_endpoint = f"https://api.sheety.co/{self.API_SHEETY_KEY}/{self.SHEET_NAME}/{self.PROJECT_NAME}"
         self.post_endpoint = f"https://api.sheety.co/{self.API_SHEETY_KEY}/{self.SHEET_NAME}/{self.PROJECT_NAME}"
-        self.put_endpoint = "https://api.sheety.co/db1d4275293be0fdbd88e663979b466f/flightDeals/prices/"
+        self.put_endpoint = "https://api.sheety.co/{self.API_SHEETY_KEY}/{self.SHEET_NAME}/{self.PROJECT_NAME}/"
 
     # def get_the_location(self):
     #     self.resource_get = requests.get(url=self.get_endpoint)
@@ -85,7 +85,7 @@ class DataManager:
             }
             try:
                 self.resource_put = requests.put(
-                    url=f"https://api.sheety.co/db1d4275293be0fdbd88e663979b466f/flightDeals/prices/{self.data_google['prices'][n]['id']}",
+                    url=f"https://api.sheety.co/{self.API_SHEETY_KEY}/{self.SHEET_NAME}/{self.PROJECT_NAME}/{self.data_google['prices'][n]['id']}",
                     json=parameters_post_code)
                 self.resource_put.raise_for_status()
 
