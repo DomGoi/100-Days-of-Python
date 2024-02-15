@@ -5,7 +5,7 @@ from datetime import datetime as dt, timedelta
 class FlightSearch:
     #This class is responsible for talking to the Flight Search API.
     def __init__(self):
-        self.API_KEY_KIWI="q35ORRv9RuDuoUJmw-cZ_zZbBJ5O11uA"
+        self.API_KEY_KIWI=os.environ["key_kiwi"]
         self.get_endpoint="https://api.tequila.kiwi.com/locations/query"
         self.get_search="https://api.tequila.kiwi.com/v2/search"
         self.FROM="LON"
