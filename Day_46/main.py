@@ -3,9 +3,9 @@ import spotipy
 from bs4 import BeautifulSoup
 from spotipy.oauth2 import SpotifyOAuth
 
-SPOTIPY_CLIENT_ID="732a3b4cfdd049d8b14bcea95f419052"
-SPOTIPY_CLIENT_SECRET="e0bbbf0bf33742e0a65b6cef49a7c081"
-USER_ID_SPOTIFY="21nps34bgan36zm6mu5t2nj3y"
+SPOTIPY_CLIENT_ID=os.environ("ID_Client")
+SPOTIPY_CLIENT_SECRET=os.environ("Client_Secret")
+USER_ID_SPOTIFY=os.environ("user_spotify")
 URL_POST_ENDPOINT=f"https://api.spotify.com/v1/users/{USER_ID_SPOTIFY}/playlists"
 
 
