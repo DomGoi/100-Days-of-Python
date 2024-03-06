@@ -43,6 +43,7 @@ class Google:
             WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.PARTIAL_LINK_TEXT,"Prześlij kolejną odpowiedź")))
             link_back=self.driver.find_element(By.PARTIAL_LINK_TEXT, "Prześlij kolejną odpowiedź").get_attribute("href")
             self.driver.get(link_back)
+        self.driver.quit()
 
 
 
