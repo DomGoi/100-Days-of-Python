@@ -1,7 +1,7 @@
 from instagram import InstaFollower
 
-mail="marc.montana9502@gmail.com"
-password="malpyMalpymalpyMontana"
+mail=os.environ("MAIL")
+password=os.environ("PASSWORD")
 site_name="doggomon"
 
 insta=InstaFollower(mail,password)
