@@ -44,13 +44,13 @@ def get_data():
 
         if message.strip():  # Check if message is not empty
             try:
-                mymail = "kyrielazone@gmail.com"  # Get email from environment variable
-                password = "roer sreg gqot mwwp "  # Get email password from environment variable
+                mymail =os.environ("mymail")  # Get email from environment variable
+                password =os.environ("password")  # Get email password from environment variable
                 
                 with smtplib.SMTP("smtp.gmail.com") as connection:
                     connection.starttls()
                     connection.login(user=mymail, password=password)
-                    connection.sendmail(from_addr=mymail, to_addrs="kyrielazone@gmail.com", msg=f"Subject: New Message from :{name}, {email}!\n\n {message}\n Sincerely,{email}")
+                    connection.sendmail(from_addr=mymail, to_addrs=os.environ("mail_main"), msg=f"Subject: New Message from :{name}, {email}!\n\n {message}\n Sincerely,{email}")
                 return render_template("form-entry.html")
             except Exception as e:
                 print("An error occurred while sending email:", e)
