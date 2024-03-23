@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% block title %}Moviebrary{% endblock %}
+ {% block home %}<li class="active"><a href="{{ url_for('add') }}">Add New Movie</a></li>{% endblock %}
+{% block content %}
+<div class="jumbotron">
+        <h1 class="text-center">My Movie Library</h1>
+        <p class="text-center">This is a movie list where you can place your movie with a rating 0-10.</p>
+    <div class="container py5 ">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Director</th>
+                <th>Rating</th>
+                <th>Link</th>
+              </tr>
+            </thead>
+            <tbody>
+
+            {% for movie in all_movies %}
+            <tr>
+                <td>{{ movie.title }}</td>
+                <td>{{ movie.director }}</td>
+                <td>{{ movie.rating }}</td>
+                <td><a href="{{ url_for('edit', id=movie.id) }}">Edit rating</a></td>
+            </tr>
+                 {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+{% endblock %}

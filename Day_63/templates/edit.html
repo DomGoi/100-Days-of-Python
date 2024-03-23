@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% block title %}Edit Rating{% endblock %}
+{% block home %}<li class="active"><a href="{{ url_for('home')}}">Home</a></li>{% endblock %}
+{% block content %}
+
+<div class="jumbotron">
+    <div class="px-4 py-5 my-5 text-center">
+        <h1 class="display-5 fw-bold text-body-emphasis">Edit rating <p> "{{ movie.title }}"</p> </h1>
+        <div class="container py5 text-center">
+            <p class="lead mb-4 text-center">Current rating: {{ movie.rating }}</p>
+        </div>
+    </div>
+
+    <div class="container py5 px5 text-center">
+        <form class="form-signin" action="{{ url_for('edit', id=movie.id) }}" method="POST">
+            <h2 class="form-signin-heading">Please input new rating</h2>
+            <label class="sr-only">New Rating</label>
+            <input type="text" name="rating" id="rating" class="form-control" required="" autofocus="" placeholder="New Rating">
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Change the rating</button>
+        </form>
+    </div>
+</div>
+
+{% endblock %}

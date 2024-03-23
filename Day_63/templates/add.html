@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+    {% block title %}Add Movie{% endblock %}
+ {% block home %}<li class="active"><a href="{{ url_for('home')}}">Home</a></li>{% endblock %}
+{% block content %}
+
+<div class="container py5">
+
+      <form class="form-signin" action="{{ url_for('add') }}" method="POST">
+        <h2 class="form-signin-heading">Please input you movie data</h2>
+        <label class="sr-only">Movie Title</label>
+        <input type="text" name="title" id="title" class="form-control" required="" autofocus="" placeholder="Movie Title">
+        <label class="sr-only">Director</label>
+        <input type="text" name="director" id="director" class="form-control" required="" placeholder="Movie Director">
+          <label class="sr-only">Rating</label>
+        <input type="text" name="rating" id="rating"  class="form-control" required="" placeholder="Movie Rating">
+        <button class="btn btn-lg btn-primary btn-block" type="submit" href="{{ url_for('add') }}">Add new movie</button>
+      </form>
+
+    </div>
+{% endblock %}
