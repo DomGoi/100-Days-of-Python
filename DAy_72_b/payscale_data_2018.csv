@@ -1,0 +1,507 @@
+Major,Early Career Pay,Mid-Career Pay,% High Meaning
+Petroleum Engineering,"$97,500","$212,500",61%
+Operations Research & Industrial Engineering,"$98,300","$191,800",21%
+Interaction Design,"$74,700","$173,600",54%
+Applied Economics and Management,"$76,500","$164,400",54%
+Building Science,"$69,000","$163,100",47%
+Operations Research,"$92,200","$160,000",57%
+Systems Engineering,"$87,000","$159,100",58%
+Optical Science & Engineering,"$79,600","$158,300",73%
+Information & Computer Science,"$76,000","$157,800",63%
+Aeronautics & Astronautics,"$88,200","$156,900",56%
+Aerospace Studies,"$62,600","$154,300",-
+Pharmacy,"$69,400","$154,000",79%
+Cognitive Science,"$78,000","$153,800",43%
+Managerial Economics,"$74,700","$153,300",38%
+Quantitative Economics,"$74,500","$152,700",43%
+Econometrics,"$72,000","$152,100",35%
+Foreign Affairs,"$62,900","$152,000",32%
+Chemical Engineering,"$85,600","$151,800",55%
+Public Accounting,"$69,700","$151,200",47%
+Political Economy,"$73,100","$150,600",31%
+Corporate Accounting & Finance,"$76,800","$149,600",50%
+Actuarial Science,"$76,700","$149,000",42%
+Computer Engineering (CE),"$89,100","$148,500",46%
+Electrical Power Engineering,"$84,700","$148,300",72%
+Computer Science (CS) & Engineering,"$90,500","$148,200",44%
+Marine Transportation Management,"$78,700","$148,000",-
+Operations & Information Systems Management,"$78,800","$147,500",24%
+Electrical & Computer Engineering (ECE),"$88,100","$147,000",49%
+Entrepreneurship & Marketing,"$63,200","$145,800",45%
+Astronomy,"$75,300","$145,600",52%
+Mechatronics,"$80,900","$144,300",46%
+Computational & Applied Mathematics,"$85,700","$144,100",46%
+Aeronautical Engineering,"$84,200","$143,400",63%
+Welding Engineering,"$86,600","$143,300",-
+Electrical Engineering (EE),"$84,900","$143,000",54%
+Electrical & Electronics Engineering (EEE),"$83,900","$142,900",57%
+Naval Architecture & Marine Engineering,"$82,800","$142,800",49%
+Instrumentation & Control Engineering,"$82,800","$141,900",44%
+Construction Engineering Management,"$78,100","$141,800",53%
+Computer Science (CS) & Mathematics,"$80,300","$141,000",44%
+Engineering Physics,"$78,600","$140,300",48%
+Mechanical & Aeronautical Engineering,"$80,900","$139,900",62%
+Computer Science (CS),"$85,400","$139,700",42%
+Jazz Studies,"$60,000","$139,400",51%
+Bioscience,"$59,900","$139,300",-
+Information Management,"$67,000","$139,000",33%
+Aerospace Engineering,"$83,500","$138,100",53%
+Pharmacology,"$63,500","$137,800",-
+Nuclear Engineering,"$85,200","$137,600",55%
+Bioengineering (BioE),"$79,500","$137,300",67%
+Applied Mathematics,"$77,200","$137,000",40%
+Physician Assistant Studies,"$109,600","$136,500",83%
+Materials Science,"$76,700","$136,200",-
+Engineering,"$77,800","$135,800",58%
+Industrial & Systems Engineering,"$82,000","$135,700",48%
+Metallurgical Engineering,"$90,800","$135,500",63%
+Materials Science & Engineering,"$81,200","$135,300",47%
+Mining Engineering,"$87,400","$135,200",59%
+Operations Management & Information Systems,"$75,900","$134,900",43%
+Business & Information Technology (IT),"$71,400","$134,700",50%
+Interactive Media Design,"$59,600","$134,400",33%
+Physics,"$75,500","$134,100",49%
+Materials Engineering,"$81,200","$133,900",58%
+Biomedical Engineering (BME),"$80,300","$133,500",71%
+Software Engineering,"$84,200","$133,400",45%
+Global & International Studies,"$59,400","$133,300",55%
+Computer & Information Science,"$72,600","$133,100",58%
+Aeronautical/Aerospace Engineering Technology,"$82,400","$132,800",51%
+Industrial Hygiene,"$65,100","$132,700",54%
+Engineering Mechanics,"$82,800","$131,900",-
+Business & Economics,"$66,500","$131,700",44%
+Astrophysics,"$78,600","$131,200",61%
+Telecommunications Engineering,"$78,000","$130,900",50%
+International Business & Finance,"$69,000","$130,800",30%
+International Economics,"$66,200","$130,600",54%
+Mechanical Engineering (ME),"$79,600","$130,300",49%
+Economics,"$70,500","$130,200",41%
+Ceramic Engineering,"$76,400","$129,900",46%
+Management Information Systems (MIS),"$73,900","$129,500",42%
+Industrial Distribution,"$71,400","$129,200",48%
+Structural Engineering (SE),"$76,200","$128,900",67%
+Accounting & Taxation,"$61,900","$128,600",-
+Integrated Science & Technology,"$71,600","$128,400",55%
+Automotive Engineering,"$75,700","$128,300",50%
+Mathematics & Statistics,"$71,800","$128,100",43%
+Packaging Science,"$78,600","$127,600",41%
+Construction Project Management,"$69,400","$127,400",64%
+Plastics Engineering,"$79,200","$127,200",58%
+Information & Decision Sciences,"$73,200","$126,800",36%
+Applied Physics,"$75,800","$126,500",53%
+Petroleum Land Management,"$66,600","$125,900",-
+Industrial Engineering & Management,"$74,800","$125,700",54%
+Psychobiology,"$58,600","$125,400",69%
+Finance & Economics,"$70,300","$124,800",42%
+Medicine,"$88,700","$124,700",94%
+Asian Studies,"$53,100","$123,800",43%
+Marketing & International Business,"$59,600","$123,500",36%
+Government,"$63,500","$123,400",45%
+Finance & Real Estate,"$73,500","$123,300",42%
+Financial Economics,"$70,500","$123,100",36%
+Nuclear Engineering Technology (NET),"$92,500","$122,800",54%
+Mathematics,"$72,300","$122,700",44%
+Civil Engineering (CE),"$73,400","$122,600",65%
+Polymer Science & Engineering,"$82,900","$122,200",-
+Applied Economics,"$69,200","$122,000",41%
+Economics & Political Science,"$64,200","$121,900",46%
+Construction Science,"$77,500","$121,800",67%
+Control Engineering,"$77,700","$121,700",59%
+Russian Studies,"$56,500","$121,600",41%
+Cybersecurity,"$72,600","$121,500",56%
+Robotics & Automation,"$72,700","$121,200",69%
+Computer Management Information Systems (CMIS),"$63,900","$121,100",50%
+Manufacturing Engineering,"$77,500","$121,000",50%
+Information Systems (IS),"$73,000","$120,600",45%
+Engineering Management,"$77,400","$120,500",53%
+Computing & Information Systems (CIS),"$68,900","$120,000",46%
+Mechanical,"$79,800","$119,900",41%
+Business Logistics & Transportation,"$64,700","$119,800",42%
+Biosystems Engineering,"$72,600","$119,500",69%
+Agricultural Economics,"$61,700","$119,400",57%
+Geophysics,"$62,700","$119,300",42%
+Management & Finance,"$64,100","$118,800",61%
+Organic Chemistry,"$50,600","$118,600",-
+Real Estate,"$69,400","$118,500",42%
+Plastics Engineering Technology,"$73,600","$118,400",34%
+Safety Science,"$70,000","$118,100",68%
+Computer Science & Information Technology,"$73,500","$118,000",48%
+Japanese Language,"$59,900","$117,900",39%
+International Business,"$63,100","$117,800",40%
+Architectural Engineering,"$74,600","$117,700",57%
+Molecular Biology,"$61,700","$117,600",66%
+Building Construction Management,"$70,500","$117,500",67%
+Business Operations,"$71,300","$117,400",-
+Electrical Engineering Technology (EET),"$74,000","$117,300",48%
+Government & International Politics (GVIP),"$58,100","$117,200",44%
+Information Security,"$75,000","$117,100",40%
+East Asian Studies,"$57,500","$116,900",49%
+Strategic Management,"$74,900","$116,700",48%
+Labor Relations,"$55,700","$116,600",35%
+Entrepreneurship & Leadership,"$64,300","$116,400",43%
+Agricultural Engineering (AE),"$71,500","$116,300",62%
+International Relations,"$60,500","$116,100",49%
+Financial Planning,"$61,200","$115,800",59%
+Corporate Finance,"$72,400","$115,700",40%
+Engineering Science,"$77,500","$115,600",47%
+European History,"$59,400","$115,500",41%
+Rhetoric,"$59,300","$114,900",41%
+Network Engineering,"$69,400","$114,600",51%
+Mechanical Design,"$68,400","$114,500",50%
+Environmental Engineering,"$70,400","$114,400",62%
+Robotics,"$87,900","$114,000",57%
+Economics & Management,"$61,500","$113,800",47%
+Product Design,"$70,000","$113,600",38%
+Mechanical Engineering Technology (MET),"$72,300","$113,200",48%
+Industrial & Labor Relations,"$77,000","$113,000",44%
+Food Science & Technology,"$59,800","$112,800",49%
+Accounting & Auditing,"$65,400","$112,700",44%
+Biochemistry (BCH),"$57,100","$112,600",64%
+Engineering Technology (ET),"$65,800","$112,500",49%
+Biotechnology,"$61,100","$112,500",62%
+Web Development,"$61,600","$112,200",43%
+Telecommunication & Information Management,"$66,800","$111,900",42%
+Pharmaceutical Sciences (PS),"$60,900","$111,600",69%
+Organizational Behavior,"$63,500","$111,400",56%
+Sales & Business Marketing,"$63,900","$111,300",55%
+Informatics,"$78,700","$111,200",46%
+Structural Design & Construction Engineering Technology,"$77,000","$111,100",48%
+Software Applications & Programming,"$71,400","$110,800",33%
+Occupational Health and Safety,"$66,800","$110,700",69%
+Database Management,"$74,500","$110,600",-
+Production Management,"$55,800","$110,400",27%
+Business & Finance,"$63,600","$109,800",54%
+Telecommunications Management,"$60,600","$109,600",46%
+Politics,"$59,500","$109,300",51%
+Physics & Astronomy,"$63,700","$109,200",33%
+Finance & Banking,"$62,600","$109,000",47%
+Aviation Flight Science (AFL),"$61,500","$108,800",49%
+Construction Science & Management,"$73,800","$108,600",75%
+Marketing,"$58,200","$108,400",41%
+Genetics,"$61,200","$108,100",72%
+Government & Politics,"$59,500","$107,800",51%
+Applied Networking & Systems Administration,"$67,200","$107,500",44%
+Industrial Technology (IT),"$71,700","$107,400",50%
+Real Estate Development,"$66,600","$107,200",-
+Electromechanical Engineering,"$79,100","$107,100",56%
+Social Ecology,"$55,400","$107,000",-
+Microbiology & Immunology,"$63,500","$106,800",74%
+French Literature,"$53,900","$106,600",50%
+Marketing Communication,"$52,200","$106,500",42%
+Industrial Design (ID),"$62,900","$106,400",40%
+Marketing & Communications,"$56,400","$106,300",46%
+Political Science,"$57,700","$106,200",47%
+Manufacturing Management,"$72,300","$106,100",48%
+Risk Management & Insurance,"$67,400","$106,000",46%
+Sales & Marketing,"$61,100","$105,800",49%
+Welding Engineering Technology,"$82,700","$105,600",42%
+Philosophy,"$60,500","$105,500",42%
+Business Data Analysis,"$72,600","$105,500",39%
+Japanese Studies,"$58,000","$105,400",21%
+International Development Studies,"$53,700","$105,200",62%
+Accounting,"$62,100","$105,100",41%
+Technical Communication,"$55,600","$105,000",42%
+Computer Programming,"$67,000","$104,800",47%
+Project Management,"$64,400","$104,500",56%
+Urban Planning,"$56,100","$104,200",53%
+Safety Management,"$67,500","$104,000",67%
+Manufacturing Engineering Technology,"$74,900","$103,500",50%
+Advertising,"$53,500","$103,400",33%
+Insurance,"$63,400","$103,300",51%
+Occupational Therapy (OT),"$60,700","$103,200",87%
+Applied Computer Science,"$74,000","$103,000",42%
+Meteorology,"$53,100","$102,800",55%
+Radiation Therapy,"$76,100","$102,600",91%
+Transportation & Logistics Management,"$65,800","$102,500",49%
+Applied Technology,"$65,500","$102,300",49%
+Environmental Health,"$56,900","$102,200",69%
+Design,"$60,500","$102,000",39%
+Crop Science,"$54,700","$101,800",56%
+Industrial Psychology,"$56,400","$101,500",50%
+Neuroscience,"$58,900","$101,300",60%
+Microbiology,"$54,800","$101,200",69%
+Agronomy,"$55,200","$101,000",65%
+Accounting & Management,"$62,600","$100,600",50%
+Business Communication,"$57,900","$100,600",47%
+Urban & Regional Planning,"$59,600","$100,500",60%
+Police Science,"$61,500","$100,100",-
+Math & Science,"$63,900","$100,000",64%
+Corporate Communications,"$54,700","$99,900",45%
+Political Science/Public Law,"$59,200","$99,800",69%
+Organizational Psychology,"$56,400","$99,700",51%
+Entomology,"$49,900","$99,200",-
+Product Design Engineering,"$73,500","$99,100",41%
+Personal Financial Planning,"$60,400","$99,000",60%
+Pre-law,"$52,900","$98,900",50%
+Textile Technology,"$60,400","$98,800",37%
+Technology,"$63,200","$98,700",-
+Environmental Science,"$55,800","$98,600",61%
+International Studies,"$56,200","$98,500",50%
+Cinema Studies,"$53,200","$98,300",37%
+Professional & Technical Writing,"$54,800","$98,200",47%
+Automotive Technology,"$55,400","$97,800",52%
+Information Systems Security,"$64,800","$97,700",47%
+Organizational Development,"$60,800","$97,500",55%
+Toxicology,"$53,900","$97,400",-
+Construction Engineering Technology,"$63,800","$97,200",60%
+English Literature,"$53,800","$97,100",46%
+Advertising & Promotion,"$53,400","$97,000",46%
+Hydrology,"$53,400","$96,900",-
+Technical Management,"$72,300","$96,800",66%
+Electronics & Computer Technology,"$60,500","$96,600",-
+Sociology & Organizational Studies,"$61,400","$96,500",55%
+Business Administration,"$60,200","$96,300",51%
+Finance & Marketing,"$67,800","$96,200",41%
+Land Surveying,"$58,200","$96,200",56%
+Journalism & Mass Communication,"$52,800","$96,100",44%
+Speech & Drama,"$45,100","$95,900",-
+Digital Media,"$52,000","$95,600",38%
+Linguistics,"$58,600","$95,500",42%
+General Science,"$56,300","$95,400",58%
+Pre-Medicine,"$57,200","$95,300",69%
+Nursing Science,"$75,600","$95,200",84%
+Integrated Marketing Communications,"$53,500","$95,100",38%
+American History (United States),"$58,900","$94,900",49%
+Personnel Management,"$57,900","$94,800",68%
+Natural Sciences,"$49,500","$94,700",54%
+Writing,"$49,900","$94,600",44%
+Computer Art,"$44,600","$94,500",33%
+Journalism,"$52,300","$94,100",44%
+Textile Design,"$56,200","$94,000",36%
+Public Relations & Communication,"$51,700","$93,900",48%
+Environmental & Natural Resource Economics,"$58,600","$93,700",66%
+General & Strategic Management,"$56,800","$93,600",52%
+History,"$54,300","$93,400",47%
+Literature,"$53,200","$93,300",45%
+Law,"$59,900","$93,200",51%
+Physiology,"$55,500","$93,100",66%
+Retail Management,"$60,400","$93,000",39%
+Management & Organization,"$78,600","$92,900",55%
+Music Technology,"$50,900","$92,900",38%
+Urban Studies,"$57,700","$92,800",60%
+Media Studies,"$57,000","$92,700",38%
+Philosophy & Religion,"$51,300","$92,600",54%
+Environmental Geography,"$55,900","$92,500",54%
+Web Design & Development,"$60,100","$92,300",44%
+Geographic Information Systems (GIS),"$56,100","$92,200",53%
+Interactive Media,"$61,300","$92,100",39%
+Retail Merchandising,"$59,000","$91,900",36%
+Diagnostic Medical Sonography,"$71,700","$91,800",86%
+Network Administration,"$54,400","$91,600",54%
+Dental Hygiene,"$81,200","$91,300",81%
+Workforce Education & Development,"$67,100","$91,200",73%
+Health Policy & Administration,"$57,300","$91,100",63%
+Quality Management,"$66,000","$90,800",62%
+Speech Communication,"$53,300","$90,700",56%
+Visual Effects & Motion Graphics,"$54,100","$90,500",38%
+Foreign Languages,"$55,600","$90,300",54%
+Landscape Architecture,"$58,700","$90,200",65%
+Global Studies,"$58,100","$90,100",47%
+Spanish Language Teacher Education,"$55,100","$89,900",-
+Technical & Scientific Communication,"$57,000","$89,800",35%
+Broadcast & Cinematic Arts,"$48,000","$89,700",41%
+Geography,"$56,200","$89,600",52%
+Forestry,"$52,800","$89,500",68%
+Nursing Education,"$76,300","$89,300",-
+English Language,"$50,900","$89,100",47%
+Geosciences,"$55,100","$89,000",62%
+Digital Arts,"$50,800","$88,900",36%
+Leadership,"$53,700","$88,700",55%
+Radio/Television & Film Production,"$51,200","$88,600",40%
+English Language & Literature,"$52,200","$88,500",44%
+Security Management,"$53,900","$88,400",-
+Public Administration,"$53,000","$88,300",57%
+Management (MGT),"$52,300","$88,200",-
+Merchandising Management,"$53,500","$88,100",48%
+Sports Management,"$51,200","$88,000",43%
+Arts Management,"$45,200","$87,900",48%
+Electronic Media,"$50,700","$87,900",37%
+Film Production,"$50,500","$87,800",37%
+Marine Science,"$51,800","$87,600",61%
+Technical Writing,"$63,300","$87,500",37%
+Travel Industry Management,"$58,700","$87,400",-
+Nuclear Medicine Technology,"$68,800","$87,200",81%
+Marketing & Advertising,"$55,400","$87,100",45%
+Musicology,"$48,100","$87,000",-
+Broadcast Journalism,"$49,800","$86,800",52%
+Animation,"$50,900","$86,700",35%
+Organizational Leadership & Supervision,"$54,600","$86,600",53%
+Multimedia,"$50,400","$86,500",45%
+Human Nutrition,"$55,100","$86,400",82%
+Acting,"$50,400","$86,400",48%
+Liberal Arts,"$51,400","$86,300",52%
+Organizational Management,"$55,500","$86,200",60%
+Zoology,"$46,800","$86,100",66%
+Creative Writing,"$51,200","$85,900",41%
+Geomatics,"$57,800","$85,800",67%
+Law Enforcement,"$52,800","$85,700",62%
+Fashion Marketing & Management,"$54,400","$85,600",27%
+Management & Leadership,"$59,500","$85,400",56%
+Human Resources (HR),"$53,800","$85,300",55%
+Animal Science & Management,"$51,500","$85,200",61%
+Adult Education & Training,"$55,200","$85,100",78%
+Health & Fitness,"$44,100","$84,900",71%
+Radiology,"$62,300","$84,800",81%
+Communication Design,"$58,500","$84,700",34%
+Training and Development,"$59,600","$84,700",-
+Human Relations,"$51,100","$84,400",63%
+Natural Resources,"$54,200","$84,300",58%
+Hotel & Restaurant Management,"$54,200","$84,200",49%
+Mass Media,"$45,800","$83,800",45%
+Radiologic Technology,"$62,000","$83,700",81%
+Romance Languages,"$57,400","$83,600",55%
+Environmental Health Science,"$61,500","$83,500",-
+Psychology,"$51,000","$83,400",56%
+Labor Studies,"$53,700","$83,200",51%
+Visual Communications,"$51,200","$83,000",34%
+Audio Engineering,"$53,800","$82,800",40%
+Health,"$49,600","$82,700",70%
+Hospitality Management,"$53,100","$82,600",43%
+Painting & Printmaking,"$39,300","$82,600",46%
+Multimedia & Web Design,"$55,700","$82,500",31%
+Psychology & Social Behavior,"$51,100","$82,400",58%
+Web Design,"$53,900","$82,300",29%
+Life Sciences,"$59,700","$82,200",60%
+Music,"$51,000","$82,100",55%
+SocialStudies,"$52,700","$82,000",56%
+Psychiatry,"$64,300","$81,900",50%
+Sociology,"$52,800","$81,800",55%
+Health Care Administration,"$52,100","$81,600",68%
+Respiratory Care,"$61,800","$81,500",85%
+Art & Design,"$51,100","$81,300",39%
+Child Psychology,"$48,400","$81,100",62%
+Theater,"$51,200","$81,000",49%
+Kinesiology,"$51,100","$80,900",66%
+Secondary Education,"$50,700","$80,800",58%
+Multidisciplinary Studies,"$49,600","$80,700",52%
+Communication Arts,"$47,800","$80,500",40%
+Sustainability,"$54,900","$80,400",58%
+Radiography,"$62,400","$80,300",83%
+Respiratory Therapy,"$61,800","$80,200",83%
+Applied Behavior Analysis,"$43,400","$80,000",88%
+Technology Teacher Education,"$54,000","$79,800",-
+Professional Studies,"$47,500","$79,300",67%
+Communications Technology,"$52,500","$79,200",32%
+Biological Anthropology,"$52,200","$79,000",46%
+Commercial Photography,"$48,900","$79,000",28%
+Radio & Television,"$49,000","$78,900",40%
+Nutrition,"$52,800","$78,600",65%
+Plant Sciences,"$55,500","$78,400",57%
+Graphic Design,"$51,300","$78,300",38%
+Nutrition & Dietetics,"$57,200","$78,200",71%
+Turfgrass Management,"$53,300","$78,100",38%
+Interdisciplinary Studies (IS),"$50,700","$78,000",57%
+Fashion Design & Marketing,"$55,900","$77,900",50%
+Religion,"$50,500","$77,800",56%
+Medical Technology,"$61,000","$77,700",82%
+Fine Arts,"$49,000","$77,600",45%
+Forensic Science,"$51,300","$77,400",63%
+Public Health (PH),"$52,300","$77,300",70%
+Speech-Language Pathology,"$49,600","$77,100",68%
+Women's Studies,"$51,200","$77,000",60%
+Modern Language Spanish,"$51,100","$76,900",63%
+Physical Geography,"$55,000","$76,800",58%
+Pastoral Studies,"$58,900","$76,700",-
+Dramatic Art,"$47,100","$76,600",-
+Music Industry,"$52,200","$76,400",38%
+Performing Arts,"$51,300","$76,300",56%
+African American & African Studies,"$54,300","$76,100",61%
+Ornamental Horticulture,"$51,600","$76,000",67%
+Hospitality & Tourism,"$51,400","$75,900",40%
+Education,"$50,600","$75,800",65%
+Foods & Nutrition,"$52,800","$75,300",68%
+Fashion & Retail Management,"$55,800","$75,000",30%
+Small Business Management,"$52,900","$74,900",36%
+Clinical Nutrition,"$58,700","$74,800",-
+Painting,"$47,400","$74,700",44%
+Speech Pathology & Audiology,"$51,400","$74,600",75%
+Physical Education Teaching,"$48,000","$74,400",68%
+Clinical Psychology,"$47,500","$74,300",65%
+Instrumental Music Teacher Education,"$48,000","$74,200",69%
+Technical Theatre,"$46,400","$74,100",41%
+Social & Criminal Justice,"$49,900","$73,900",55%
+Family & Consumer Science,"$49,400","$73,800",61%
+Network Technology,"$63,500","$73,700",60%
+Video Production,"$48,600","$73,600",36%
+International Trade,"$54,100","$73,400",44%
+Missions,"$45,400","$73,200",-
+Health Services Administration,"$49,000","$73,100",64%
+Justice Studies,"$51,500","$73,000",49%
+Physical Therapist Assistant Studies,"$55,100","$72,800",-
+Sports Administration,"$49,700","$72,600",47%
+Graphic Arts,"$48,000","$72,400",44%
+Secondary English Teacher Education,"$49,800","$72,100",62%
+Interior Design & Merchandising,"$50,200","$72,000",41%
+Health & Wellness,"$45,500","$71,900",69%
+Restaurant & Food Service Management,"$50,100","$71,800",40%
+Theology,"$49,600","$71,700",68%
+Wildlife Management,"$44,500","$71,600",46%
+Mortuary Science,"$48,800","$71,500",78%
+Media Production,"$49,000","$71,200",35%
+Health Services Management,"$47,400","$71,000",87%
+Social Science Teacher Education,"$51,000","$70,800",-
+Rehabilitation Counseling,"$44,100","$70,600",-
+Radio Broadcasting,"$51,000","$70,500",39%
+Community Health,"$52,500","$70,300",73%
+Drawing,"$43,400","$70,100",37%
+Dance,"$50,600","$69,900",59%
+Music Teacher Education,"$47,700","$69,800",58%
+Photojournalism,"$46,800","$69,700",55%
+Family & Community Services,"$48,400","$69,600",77%
+Drawing & Painting,"$48,900","$69,500",45%
+Vocal Performance,"$48,400","$69,400",62%
+Tourism Management,"$48,900","$69,200",38%
+Wildlife Biology,"$48,200","$68,900",58%
+Teaching English as a Second Language (ESL),"$48,800","$68,800",67%
+Parks & Recreation Management,"$49,000","$68,700",59%
+Social Services,"$44,800","$68,500",78%
+Elementary Special Education,"$51,200","$68,300",81%
+Landscape Design,"$57,100","$68,000",62%
+Speech & Hearing,"$51,400","$67,600",72%
+Sculpture,"$44,700","$67,200",48%
+Health Promotion,"$47,700","$67,000",71%
+Athletic Training,"$47,700","$66,900",75%
+Family Studies,"$45,000","$66,800",60%
+Social Studies Teacher Education,"$49,200","$66,700",59%
+Biblical Studies & Practical Ministries,"$45,400","$66,600",-
+Communication Sciences & Disorders,"$49,900","$66,500",75%
+Emergency Medical Services (EMS),"$47,300","$66,300",-
+Deaf Studies,"$43,700","$66,100",-
+Community Health Education,"$48,600","$65,800",70%
+Musical Theatre,"$50,000","$65,500",46%
+Pastoral Ministry,"$43,500","$65,200",76%
+Bible Studies & Theology,"$44,800","$65,100",68%
+Biblical Studies,"$47,000","$65,000",71%
+Christian Ministry,"$43,000","$64,500",75%
+Human Development & Family Studies,"$45,400","$64,400",63%
+Church Ministries,"$43,600","$64,300",79%
+Community Development,"$50,300","$63,600",69%
+Music Therapy,"$48,500","$63,500",95%
+Voice & Opera,"$38,700","$63,200",53%
+Legal Assistant Studies,"$42,000","$63,000",39%
+Health and Human Services,"$48,800","$62,900",64%
+Home Economics,"$47,700","$62,800",69%
+Special Education,"$46,400","$62,700",75%
+Conflict Resolution,"$52,000","$62,100",50%
+Developmental Psychology,"$42,900","$61,800",-
+Youth Ministry,"$42,800","$61,700",74%
+Therapeutic Recreation,"$44,900","$61,500",83%
+Social Work (SW),"$43,300","$61,300",76%
+Elementary Education,"$45,800","$60,700",68%
+Office Administration,"$43,400","$60,500",67%
+Christian Education,"$45,300","$60,300",84%
+Human Services (HS),"$44,400","$59,600",70%
+Health & Human Performance,"$43,000","$58,900",67%
+Middle School Education,"$47,200","$58,500",76%
+Child Development,"$42,200","$57,900",73%
+Recreational Therapy,"$44,900","$57,200",84%
+Early Childhood & Elementary Education,"$43,400","$56,500",76%
+Outdoor Education,"$42,200","$55,200",51%
+Baking & Pastry Arts,"$42,400","$54,900",38%
+Mental Health,"$42,700","$52,900",76%
+Child & Family Studies,"$41,600","$52,700",73%
+Equine Studies,"$40,300","$52,500",50%
+Addictions Counseling,"$45,900","$52,200",78%
+Nonprofit Administration,"$42,800","$52,100",72%
+Early Childhood Education,"$41,700","$50,600",77%
+Metalsmithing,"$44,700","$44,900",36%
